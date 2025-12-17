@@ -14,7 +14,8 @@ AI AUTOMATION JOB IMPACT DASHBOARD
  - Show TOP 5 INDUSTRY WISE RISK ?
 
 ## Dashboard
-"C:\Users\Sanjay\OneDrive\Pictures\Screenshots\Screenshot 2025-11-14 044959.png"
+![Uploading Screenshot 2025-11-14 044959.png…]()
+
 
 
 
