@@ -1,4 +1,4 @@
-<img width="392" height="56" alt="image" src="https://github.com/user-attachments/assets/4633bb7b-47a0-4809-a6d8-3809d916193b" /># Data-Analaysis-Dashboard
+
 AI AUTOMATION JOB IMPACT DASHBOARD
 
 ## Dataset used 
